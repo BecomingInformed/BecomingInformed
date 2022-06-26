@@ -6,7 +6,6 @@
 
 $discard
 
-$boost,site=en.wikipedia.org
 $boost,site=activistpost.com
 $boost,site=zerohedge.com
 $boost,site=globalresearch.ca
